@@ -65,7 +65,7 @@
 
 เปรียบเทียบ 4 แบรนด์ในแกน **ราคา vs คุณภาพ**
 
-![PerceptualMapping](images/PerceptualMappingp.png)
+![perceptual](images/perceptual.png)
 
 | แบรนด์ | ราคา | ตำแหน่ง |
 |---|---|---|
@@ -87,7 +87,7 @@
 
 ### Who-What-How Framework
 
-![Who-What-How](images/Who-What-How.png)
+![whowhathow](images/whowhathow.png)
 
 | ประเภทคู่แข่ง | Customer | Problem | Solution |
 |---|---|---|---|
