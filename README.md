@@ -1,9 +1,6 @@
-# Ecom
+# Supply Chain Analysis for E-Commerce Business
 
 # การวิเคราะห์ E-Commerce Supply Chain — ล้ำเสน LUMZEN หมี่ไก่ฉีก
-
-
-
 
 
 
@@ -100,13 +97,6 @@
 
 ![CompetitiveAnalysis](images/CompetitiveAnalysis.png)
 
-| | หมีไก่ emily | chekkchekk_official | khotzapp |
-|---|---|---|---|
-| ราคา | 125 บาท | 99 บาท | 79 บาท |
-| Primary Buyer | วัยรุ่น 17–35 ปี | วัยรุ่น 17–30 ปี | ทุกเพศวัย |
-| Target Customer | คนรักสุขภาพ / งบน้อย | อายุต่ำกว่า 40 ปี | อายุต่ำกว่า 35 ปี |
-| จุดแข็ง | ดังพันธมิตร มีลักศิษย์ | ไม่หนืดเหนียว | หลากหลายประเภท |
-| จุดอ่อน | — | หมดไวอยู่เร็วมาก | ความสม่ำเสมอต่ำ |
 
 ---
 
@@ -284,16 +274,5 @@
 
 ---
 
-## 🛠️ Tools & Frameworks ที่ใช้ในโปรเจค
-
-![Maslow](https://img.shields.io/badge/Framework-Maslow's%20Hierarchy-lightgrey?style=flat-square)
-![SWOT](https://img.shields.io/badge/Framework-SWOT%20Analysis-lightgrey?style=flat-square)
-![Perceptual](https://img.shields.io/badge/Framework-Perceptual%20Mapping-lightgrey?style=flat-square)
-![WhoWhatHow](https://img.shields.io/badge/Framework-Who--What--How-lightgrey?style=flat-square)
-![Facebook](https://img.shields.io/badge/Platform-Facebook%20Business-blue?style=flat-square&logo=facebook)
-![Lineman](https://img.shields.io/badge/Platform-LINE%20MAN-green?style=flat-square)
-![1688](https://img.shields.io/badge/Sourcing-1688.com-red?style=flat-square)
-
----
 
 
