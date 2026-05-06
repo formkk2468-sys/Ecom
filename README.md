@@ -114,7 +114,7 @@
 
 ### Competitive Strategy: **Cost Focus**
 
-![CompetitiveStrategy](images/Competitive Strategy.png)
+![CompetitiveStrategy](images/CompetitiveStrategy.png)
 
 มุ่งเน้นกลุ่มลูกค้าที่ **รักสุขภาพและต้องการอาหารราคาประหยัด** โดยยึดตำแหน่ง *Low Cost + Narrow Target* ในกรอบ Porter's Generic Strategy
 
